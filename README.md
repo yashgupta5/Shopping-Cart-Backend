@@ -1,4 +1,4 @@
-# Shopping-Cart-Backend
+# Shopping_Cart_Backend
 ● Designed and implemented a shopping cart backend using OOP principles and data structures, implemented 
 various algorithms to optimize the performance of the system. Used Hash Maps, Queues, and Stacks to handle 
 real-time updates and transactions. Created classes for user authentication and authorization, cart management, 
